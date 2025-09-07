@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+transformers
+torch
+pandas
+openpyxl
+jinja2
+python-multipart
+aiofiles
